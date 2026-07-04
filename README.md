@@ -1,7 +1,5 @@
-# HR_Analytics_Dashboard_PowerBI
-## **Project Title / Headline**
 
-# ** 💼 Cipla HR Analytics Dashboard**
+# **💼 Cipla HR Analytics Dashboard**
 ### *An Interactive Workforce Analytics Solution for Employee Attrition, Demographics, and HR Performance Monitoring*
 The Cipla HR Analytics Dashboard is a comprehensive Power BI solution designed to help HR professionals analyze workforce trends, monitor employee attrition, and evaluate demographic patterns across departments. The dashboard enables decision-makers to identify the key drivers of employee turnover, understand workforce composition, and make data-driven HR strategies to improve employee retention and organizational performance.
 
@@ -20,7 +18,7 @@ The dashboard was built using the following technologies:
   * `.pbix` – Dashboard development
   * `.png` – Dashboard preview
   * Excel/CSV – Source dataset
-  * 
+    
 # **📂 Data Source**
 **Source:** IBM HR Analytics Employee Attrition Dataset (Customized and presented as Cipla HR Analytics Dashboard)
 The dataset contains detailed employee information including:
@@ -57,7 +55,7 @@ The objective of this dashboard is to:
 * Analyze workforce demographics.
 * Support HR policy and retention planning.
 * Enable leadership to make informed workforce decisions using interactive visual analytics.
-* 
+  
 # **📊 Walkthrough of Key Visuals**
 ## **1. KPI Summary Cards**
 The dashboard begins with high-level HR KPIs that provide an instant overview of workforce performance.
