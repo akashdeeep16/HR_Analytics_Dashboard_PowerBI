@@ -141,6 +141,7 @@ Instead of relying on static reports, HR leaders can interactively explore emplo
 * Job-role rating analysis helps identify teams with strong performance as well as areas where additional training and support may improve employee outcomes.
 * The dashboard enables HR leaders to monitor workforce trends in real time, supporting proactive and evidence-based decision-making across the organization.
 
-##Snapshot of dashboard
+## Snapshot of dashboard
+
 <img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/5ebefa4f-47bd-42db-b058-c623f1781711" />
 
